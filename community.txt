@@ -1,7 +1,1 @@
-
 conflict!
-
---sample text--
-:]
-I changed this
-
