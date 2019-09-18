@@ -1,3 +1,4 @@
 Hello class.....
 
+New line
 Last change
